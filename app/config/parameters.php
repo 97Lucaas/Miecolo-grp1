@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'miecolo',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'mi_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'URRCXDRUMXkmi3uFJxwIiDCbcTW7bvhJVWj5t3Jm0C1F1rCDy3LLHtVKQEqEZCaE',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2023-03-01',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'cXnqvzst2cRxvM8FEC6Pu9o4aObAoY1NI1AHsqGKbMmeOcJ5r3vifeNc7ea1iD3m',
+    'cookie_iv' => '1wigLO0u5KN57noPV0YGGExZXiqwC2HC',
+    'new_cookie_key' => 'def000003a0a7e7b81dd870240ddcdd9f7f5e38e968a5c306d23289f3560fc7296280b6383b572cf5555b606e4913a952ffb8217d547a829024f00bef1d5751cdcecaf42',
+  ),
+);

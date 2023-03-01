@@ -1,0 +1,12 @@
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:32:32: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:33:36: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:35:42: Erreur SQL sur la requête <i>Erreur de syntaxe près de 'CREATE TABLE `mi_address` (
+  `id_address` int(10) unsigned NOT NULL auto_increm' à la ligne 8</i>
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:36:41: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:37:51: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:39:42: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:41:06: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:44:17: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:46:39: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:48:31: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.8	2023/03/01 - 15:56:29: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
